@@ -1,4 +1,4 @@
-import React, { ComponentProps, HTMLProps } from "react";
+import React, { ComponentProps } from "react";
 import styled, { StyledComponent } from "styled-components";
 import { colors } from "../styles";
 

@@ -4,7 +4,6 @@ import Button from "../components/Button";
 import Spacer from "../components/Spacer";
 import TextButton from "../components/TextButton";
 import useTaskStore from "../hooks/use-task-store";
-import { TasksProps } from "../types";
 
 
 const Container = styled.div`

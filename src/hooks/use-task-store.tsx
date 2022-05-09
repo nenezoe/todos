@@ -3,7 +3,6 @@ import { nanoid } from "nanoid";
 import { useContext, useEffect, useState } from "react";
 import TaskContext from "../contexts/task-store";
 import { Task } from "../types";
-import useLocalStorage from "./use-local-storage";
 
 const useTaskStore = () => {
 

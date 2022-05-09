@@ -11,7 +11,7 @@ const DeleteIcon = () => {
         >
             <path
             d="M1 16C1 17.1 1.9 18 3 18H11C12.1 18 13 17.1 13 16V4H1V1E"
-            fill="#FFC93F"
+            fill="#00D4FF"
             />
         </svg>
     )
